@@ -1,6 +1,7 @@
 # Freddy Caban
 Personal Website
 [Publications and Presentations](https://frcaban.github.io/about)
+[Research](https://frcaban.github.io/Research)
 
 
 I'm currently a physics graduate student at Stony Brook University pursing my Masters in physics and advanced graduate certificate in data and computational science. I am also a full time employee of the City of New York. I obtained my associate of science in mathematics from the Borough of Manhattan Community College CUNY in 2018 and my bachelor of science in physics from Queens College CUNY in 2021. I am a member of the astrophysics research group at the American Museum of Natural History where I study the interactions between stars and stellar mass black holes with the gas disk of active galactic nuclei (AGN) together with my partners Barry Mckernan, Saavik Ford, Gaia Fabj and Syeda Nasim. I have a love and fascination with the stars and a curiosity to understand the workings of our universe. I have recently gained an interest in the study of dark matter and dark energy and plan to pursue a related topic for my thesis research. I would love to one day use the Atacama Cosmology Telescope (ACT) in the dessert of Chili to conduct observations.
