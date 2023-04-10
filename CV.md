@@ -1,2 +1,2 @@
 
-[CV](http://url/to/WebCV.pdf)
+[CV](./WebCV.pdf)
