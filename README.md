@@ -1,7 +1,7 @@
 # Freddy Caban
 Personal Website
 
-## [Publications and Presentations](https://frcaban.github.io/about) | [Research](https://frcaban.github.io/Research) | [Contact](https://frcaban.github.io/Contact) | [CV](./FreddyCabanCVUpdated.pdf)
+## [Publications and Presentations](https://frcaban.github.io/about) | [Research](https://frcaban.github.io/Research) | [Contact](https://frcaban.github.io/Contact) | [CV](./FreddyCabanCVUpdated2025.pdf)
 ![alt text](AMNHLight2.png)
 
 
